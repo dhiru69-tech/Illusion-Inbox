@@ -80,3 +80,7 @@ Operating this tool implies complete legal responsibility
 *"In the world of bits and bytes, ethics light our path."*
 
 </div>
+---
+
+
+---
